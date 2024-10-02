@@ -32,7 +32,9 @@ Well, I've been watching videos from all the haters of Godot and listening to a 
  
 I've come to one of two conclusions about the nature of Godot:
 
-	Juan is a cult leader, and Godot is a literal cult run by someone who literally wants to 
+	
+ 	Update Oct 2, 2024: This information I found out is inaccurate:
+ 	Juan is a cult leader, and Godot is a literal cult run by someone who literally wants to 
   	rule the world and is using "Open Source" as a ruse to do it.
   
 	Juan is an incompetent leader, who's allowed a toxic enviroment to continue that's incredably 
