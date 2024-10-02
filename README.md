@@ -51,6 +51,8 @@ In this sense it really dosen't matter which of these situations is true, becaus
 
 As such the future of the JIT-Engine is to do extaclly that. 
 
+Edit Oct 2, 2024: I'm now a maintainer of Redot, as such JIT will be my personal fork for my own games and to test ageinst Redot. Please go join Redot if you would like to be part of a serious forking effort. https://github.com/Redot-Engine
+
 This is what's needed for myself, if I'm going to continue to use this engine to make thought provoking games, and it's needed by the overall Godot community because group think is bad and leads to sagnation and authoritarianism.
 
 I'm sure over the course of this jounry I'll end up becoming everything I hate, as if God himself was mocking me. But for the time being, there is no other choice, and if I'm going to solve the problem of getting from point A. (having a game idea) to point B (Relaseing my game and making a bunch of $$ so I can sip wine and talk about golfing or whatever at country clubs in my old age) this is the soultion that must be done now. 
